@@ -1,0 +1,57 @@
+.half{
+    width: 40%;
+    margin: 3%;
+    padding: 2%;
+    float: left;
+}
+margin{
+    margin: 0%;
+}
+.orange{
+    color: red;
+}
+.ora{
+    color: aliceblue;
+    background-color: red;
+    border-radius: 5px;
+}
+section{
+    height: 500px;
+}
+.dim{
+    text-align: center;
+    font-size: 50px;
+}
+.anda{
+    width: 25%;
+    margin: 3%;
+    padding: 1%;
+}
+.bottom{
+    margin: 3%;
+    padding: 2%;
+    text-align: center;
+    
+
+}
+.size{
+    font-size: 50px;
+}
+#backcolor{
+    background-color: orchid;
+    border-radius: 10px;
+    background-size: 30%;
+}
+.backimg{
+    background-image: url("happy.jpg");
+    background-repeat: no-repeat;
+}
+body{
+    margin: 0px;
+}
+.pp{
+    color: aquamarine;
+}
+.lal{
+    font-size: 50px;
+}
